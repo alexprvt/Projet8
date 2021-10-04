@@ -31,16 +31,9 @@ leur rôle dans l’architecture Big Data ;
 les étapes de la chaîne de traitement.
 Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P8_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P8_01_notebook”, “P8_02_images”, et ainsi de suite.
 
-Modalités de la soutenance
-5 min - Rappel de la problématique et présentation du jeu de données
 
-15 min - Présentation de la réalisation de la chaîne de traitement des images dans un environnement Big Data dans le cloud (à l'aide de votre support de présentation)
 
-5 min - Conclusion et recommandations
-
-5 à 10 minutes de questions-réponses
-
-Compétences évaluées
+Compétences développées:
 Paralléliser des opérations de calcul avec Pyspark
 Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
 Identifier les outils du cloud permettant de mettre en place un environnement Big Data
